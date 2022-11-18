@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Beeaxiie
 - 👀 I’m interested in AI, making game etc.
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C# and python.
 - 📫 How to reach me? Discord: Beeaxiie#3497
 
 <!---
